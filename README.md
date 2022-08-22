@@ -1,16 +1,16 @@
 # Introduction to Computer Security Principles
 
-## CECS 378: Section 3 (11471)
+## CECS 378: Section 3 (9284)
 
-### Spring 2022
+### Fall 2022
 
 | Class Lecture | Time              | Room    |
 |---------------|-------------------|---------|
-| Mon Wed       | 8:00 AM - 9:15 AM | ECS-302 |
+| Mon Wed       | 5:30 PM - 6:45 PM | VEC-518 |
 
-| Instructor        | Email                       | Office  | Office Hours           |
-|-------------------|-----------------------------|---------|------------------------|
-| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-526 | 10:45 - 11:45 AM, 3:15 - 4:15 PM Mon Wed |
+| Instructor        | Email                       | Office  | Office Hours                  |
+|-------------------|-----------------------------|---------|-------------------------------|
+| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-526 | 10:00 AM - 11:00 AM  MoTuWeTh |
 
 ### Required Textbook
 
