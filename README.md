@@ -74,7 +74,7 @@ Homework and lab assignments will be assigned approximately every other week, an
 | Feb 24     | Malicious Software, ctd                             |
 | Mar  2     | Denial of Service Attacks (Ch 7)                    |
 | Mar  9     | DoS ctd, Database and Cloud Security (Ch 5)         |
-| Mar 16     | Database, ctd                                       |
+| Mar 16     | DoS ctd, Database and Cloud Security (Ch 5) |
 | Mar 23     | Second Exam, Buffer Overflow Attacks (Ch 10)        |
 | Mar 30     | Buffer Overflow, ctd                                |
 | Apr  6     | User Authentication and Access Control (Ch 3, 4)    |
@@ -82,6 +82,25 @@ Homework and lab assignments will be assigned approximately every other week, an
 | Apr 20     | Spring Break                                        |
 | Apr 27     | OS Security (Ch 12)                                 |
 | May  4-11  | Case Study, Final Exam                              |
+
+|  Week      | Subject                                             |
+|------------|-----------------------------------------------------|
+| Aug 22     | Intro to Computer Security (Ch 1)                   |
+| Aug 29     | Symmetric and Assymmetric Encryption (Ch 2, 20, 21) |
+| Sep  5     | Encryption, ctd                                     |
+| Sep 12     | Encryption, ctd                                     |
+| Sep 19     | First exam, Malicious Software (Ch 6)               |
+| Sep 26     | Denial of Service Attacks (Ch 7)                    |
+| Oct  3     | DoS ctd, Database and Cloud Security (Ch 5)         |
+| Oct 10     | Database, ctd.                                      |
+| Oct 17     | Second Exam, Buffer Overflow Attacks (Ch 10)        |
+| Oct 24     | Buffer Overflow, ctd                                |
+| Oct 31     | User Authentication and Access Control (Ch 3, 4)    |
+| Nov  7     | UAAC ctd, Intrusion Detection (Ch 8)                |
+| Nov 14     | UAAC ctd, Intrusion Detection (Ch 8)                                      |
+| Nov 21     | Fall Break                                          |
+| Nov 28     |                              |
+| Dec 5-12   | Case Study, Final Exam                              |
 
 ### Computer Software
 
